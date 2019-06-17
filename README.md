@@ -1,1 +1,2 @@
-# ekaterinabudon.github.io
+class="cont"></div>
+<script src="./dist/main.js"></script>
